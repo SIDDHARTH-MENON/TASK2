@@ -3,7 +3,7 @@
     padding:0px;
 }
 .background{
-    background-image: url("/battle.jpg");
+    background-image: url("battle.jpg");
  height:200px;
  width:100%;
 
